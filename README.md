@@ -1,5 +1,4 @@
 # pedro
-# Custom FPV Flight Controller
 
 A fully custom FPV drone flight controller designed from scratch, from component selection and schematic design to PCB layout and routing.
 
